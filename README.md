@@ -377,7 +377,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **GitHub Issues:** [Report bugs or request features](https://github.com/YOUR_USERNAME/mini-prediction/issues)
-- **Twitter:** [@your_handle](https://twitter.com/your_handle)
+- **Twitter:** https://x.com/Velocitybnb
 
 ---
 
