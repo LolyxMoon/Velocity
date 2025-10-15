@@ -1,4 +1,4 @@
-# Mini Prediction Market 🎯
+# Prediction Market 🎯
 
 > Decentralized prediction markets with **automatic Tellor oracle resolution** on BSC Testnet
 
