@@ -18,12 +18,6 @@
 * [How to Bet](markets/how-to-bet.md)
 * [Claiming Winnings](markets/claiming.md)
 
-## For Developers
-* [Integration Guide](for-developers/integration.md)
-* [Smart Contracts](for-developers/smart-contracts.md)
-* [Contract Addresses](for-developers/contract-addresses.md)
-* [API Reference](for-developers/api-reference.md)
-
 ## Legal & Compliance
 * [Terms of Service](legal/terms-of-service.md)
 * [Risk Factors](legal/risk-factors.md)
