@@ -38,9 +38,7 @@ You'll need BNB (Binance Coin) to:
 
 ## Step 2: Connect Your Wallet
 
-1. Visit [velocitybets.com](https://velocitybets.com)
-
-2. Click **"Connect Wallet"** in the top right
+1. Click **"Connect Wallet"** in the top right
 
 3. Choose your wallet:
    - 🦊 MetaMask
@@ -163,8 +161,8 @@ Let's say you want to bet on 哈基米:
 
 ```
 Step 1: You have 1 BNB in your wallet
-Step 2: Connect wallet to velocitybets.com
-Step 3: Choose "哈基米" market
+Step 2: Connect wallet to VelocityBets
+Step 3: Choose a market
 Step 4: Enter 0.05 BNB bet amount
 Step 5: See payout: "0.05 BNB → 0.12 BNB"
 Step 6: Click "YES" (you think it'll reach $100M)

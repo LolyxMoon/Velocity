@@ -35,7 +35,7 @@ Your winnings: X BNB
 
 ### Step 1: Navigate to Market
 
-1. Go to [velocitybets.com](https://velocitybets.com)
+1. Go to ()
 2. Click on the resolved market
 3. Connect your wallet (if not already connected)
 
@@ -444,5 +444,5 @@ Feeling lucky? Browse new markets and bet again!
 
 **Congratulations on your win!** 🎉
 
-[Return to VelocityBets →](https://velocitybets.com)
+[Return to VelocityBets →]()
 

@@ -53,7 +53,7 @@ Complete rules for participating in VelocityBets prediction markets.
 
 ### Placing a Bet
 
-1. **Connect wallet** to [velocitybets.com](https://velocitybets.com)
+1. **Connect wallet** to ()
 2. **Choose market** from active markets
 3. **Enter amount** (0.001 - 0.1 BNB)
 4. **Click YES or NO**
@@ -403,5 +403,5 @@ Always check market details before betting.
 
 ---
 
-**Ready to bet?** [Visit VelocityBets →](https://velocitybets.com)
+**Ready to bet?** [Visit VelocityBets →]()
 

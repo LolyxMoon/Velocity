@@ -23,11 +23,10 @@ Each market asks a simple question:
 
 ## How to Participate
 
-1. **Visit** [velocitybets.com](https://velocitybets.com)
-2. **Connect** your wallet (MetaMask, Rabby, or WalletConnect)
-3. **Browse** available markets
-4. **Bet YES or NO** on the outcome
-5. **Claim winnings** after market resolves
+1. **Connect** your wallet (MetaMask, Rabby, or WalletConnect)
+2. **Browse** available markets
+3. **Bet YES or NO** on the outcome
+4. **Claim winnings** after market resolves
 
 ---
 
@@ -63,5 +62,3 @@ All markets are **fully on-chain** and verifiable on BSCScan:
 - 📊 [Understanding Odds](understanding-odds.md)
 
 ---
-
-**Ready to bet?** [Visit VelocityBets →](https://velocitybets.com)

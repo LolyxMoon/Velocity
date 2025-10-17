@@ -184,7 +184,7 @@ Scenario 2: NO Wins
                │ Connects to
                ▼
 ┌─────────────────────────────────────┐
-│      velocitybets.com               │
+│      VelocityBets               │
 │      (Frontend Interface)           │
 └──────────────┬──────────────────────┘
                │

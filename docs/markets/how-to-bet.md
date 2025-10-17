@@ -18,7 +18,7 @@ Make sure you have:
 
 ### Navigate to VelocityBets
 
-1. Go to [velocitybets.com](https://velocitybets.com)
+1. Go to ()
 2. Click **"Connect Wallet"** button (top right)
 
 ### Choose Your Wallet
@@ -454,5 +454,5 @@ Action:
 
 ---
 
-**Ready to place your first bet?** [Go to VelocityBets →](https://velocitybets.com)
+**Ready to place your first bet?** [Go to VelocityBets →]()
 

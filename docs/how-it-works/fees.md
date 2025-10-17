@@ -374,5 +374,5 @@ Learn more:
 
 ---
 
-**Ready to bet?** [Get Started →](https://velocitybets.com)
+**Ready to bet?** [Get Started →]()
 
