@@ -1,8 +1,8 @@
 # Introduction
 
-### Welcome to VelocityBets
+### Welcome to Velocity
 
-VelocityBets is the **first on-chain prediction market for Four.meme tokens** on BNB Chain.
+Velocity is the **first on-chain prediction market for Four.meme tokens** on BNB Chain.
 
 By creating **decentralized prediction markets** for Four.meme tokens, we enable users to bet on specific market cap outcomes without holding the underlying tokens.
 
