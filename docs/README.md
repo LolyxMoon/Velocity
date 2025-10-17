@@ -2,10 +2,10 @@
 
 ### Welcome to VelocityBets
 
-VelocityBets is the **first on-chain prediction market for Four.meme tokens**, turning one of BNB Chain's most explosive trading ecosystems into an **investable, speculative market**.
+VelocityBets is the **first on-chain prediction market for Four.meme tokens** on BNB Chain.
 
-By creating **decentralized prediction markets** for high-momentum Four.meme tokens, we unlock access to a meta once reserved for trenches degens — bridging the gap between **memecoin speculation and structured betting markets**.
+By creating **decentralized prediction markets** for Four.meme tokens, we enable users to bet on specific market cap outcomes without holding the underlying tokens.
 
-For the first time, anyone can bet on the future of the hottest Four.meme launches without navigating complex DEXs, rug pulls, or timing the perfect entry. Simply predict the outcome and let the market decide.
+Simply predict whether a token will reach its target market cap before the deadline. If you're right, you win. All markets are resolved trustlessly via Tellor Oracle.
 
 

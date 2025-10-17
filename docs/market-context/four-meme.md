@@ -2,51 +2,28 @@
 
 ## Overview
 
-**Four.meme** has emerged as the dominant memecoin launchpad on BNB Chain, creating what's known as the "trenches meta" — a culture of high-risk, high-reward token speculation that has captivated the BSC community.
+**Four.meme** is a memecoin launchpad on BNB Chain where users can launch and trade meme tokens.
 
-### Market Size & Growth
+VelocityBets creates prediction markets specifically for Four.meme tokens, allowing users to bet on whether these tokens will reach specific market cap targets.
 
-- **Billions in trading volume** across Four.meme tokens
-- **Daily launches** of new tokens with explosive potential
-- **Viral community** driving momentum and narrative
-- **First-mover advantage** on BNB Chain's memecoin ecosystem
+### Why Four.meme Tokens?
 
-### Why Four.meme?
+Unlike generic prediction markets, VelocityBets specializes exclusively in Four.meme tokens:
 
-Unlike generic prediction markets that try to cover everything, VelocityBets specializes exclusively in Four.meme tokens for strategic reasons:
+#### Focused Approach
 
-#### 1. Proven Track Record
+- **Specialized markets** for Four.meme launches
+- **Clear milestones** ($10M, $50M, $100M, $444M market caps)
+- **Simple predictions** - Will a token hit its target or not?
 
-Four.meme has consistently delivered moonshot opportunities:
-- Multiple tokens reaching 8+ figure market caps
-- Strong community engagement and retention
-- Established brand within BSC ecosystem
-- Reliable launchpad infrastructure
+#### Market Opportunity
 
-#### 2. Predictable Dynamics
+By focusing on Four.meme:
 
-Four.meme tokens follow recognizable patterns:
-- Clear market cap milestones ($10M, $50M, $100M, $444M)
-- Community-driven price action
-- Narrative cycles and viral moments
-- Observable on-chain metrics
+✅ Curated selection of tokens  
+✅ Clear prediction outcomes  
+✅ Specialized expertise  
+✅ Transparent on-chain data  
 
-#### 3. High Speculation Demand
-
-The trenches meta thrives on speculation:
-- Active trading community 24/7
-- Strong social media presence
-- Meme-driven narratives
-- FOMO and momentum trading
-
-### Market Opportunity
-
-By focusing exclusively on Four.meme, VelocityBets can:
-
-✅ Curate the highest-quality markets  
-✅ Understand token-specific dynamics  
-✅ Build expertise in this niche  
-✅ Serve the trenches community directly  
-
-**We're not trying to predict everything. We're the best at predicting Four.meme success.**
+**We don't predict everything. We predict Four.meme token outcomes.**
 
