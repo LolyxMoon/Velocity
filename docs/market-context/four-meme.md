@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/vecloitybnb2.webp
+coverY: 0
+---
+
 # The Four.meme Market
 
 ## Overview
@@ -12,18 +17,17 @@ Unlike generic prediction markets, VelocityBets specializes exclusively in Four.
 
 #### Focused Approach
 
-- **Specialized markets** for Four.meme launches
-- **Clear milestones** ($10M, $50M, $100M, $444M market caps)
-- **Simple predictions** - Will a token hit its target or not?
+* **Specialized markets** for Four.meme launches
+* **Clear milestones** ($10M, $50M, $100M, $444M market caps)
+* **Simple predictions** - Will a token hit its target or not?
 
 #### Market Opportunity
 
 By focusing on Four.meme:
 
-✅ Curated selection of tokens  
-✅ Clear prediction outcomes  
-✅ Specialized expertise  
-✅ Transparent on-chain data  
+✅ Curated selection of tokens\
+✅ Clear prediction outcomes\
+✅ Specialized expertise\
+✅ Transparent on-chain data
 
 **We don't predict everything. We predict Four.meme token outcomes.**
-
