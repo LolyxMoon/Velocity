@@ -2,9 +2,7 @@
 
 **The first decentralized prediction market exclusively for Four.meme tokens on BNB Chain.**
 
-[![Website](https://img.shields.io/badge/Website-velocitybets.com-blue)](https://velocitybets.com/)
-[![BSC Mainnet](https://img.shields.io/badge/Network-BSC%20Mainnet-yellow)](https://bscscan.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-@Velocitybnb-1DA1F2)](https://x.com/Velocitybnb)
+
 
 ---
 
